@@ -2,7 +2,7 @@
 
 def badge_maker(name)
   name = []
-  array.each
-  
+  array.each do |name|
+  puts "Hello, my name is #{name}"
   
 end
